@@ -1,5 +1,5 @@
 - 👋 Hi Dear, I'm França Júnior
-- 👀 Tenho interesse em frontend
+- 👀 I'm interested in HTML, CSS, JavaScript, React...
 - 🌱 Atualmente estou cursando o programa Ignite da Rocketseat
 
 
