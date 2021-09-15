@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o França Júnior
+- 👋 Hi Dear, I'm França Júnior
 - 👀 Tenho interesse em frontend
 - 🌱 Atualmente estou cursando o programa Ignite da Rocketseat
 
