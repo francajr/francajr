@@ -1,6 +1,6 @@
 - 👋 Hi Dear, I'm França Júnior
-- 👀 I'm interested in HTML, CSS, JavaScript, React...
-- 🌱 I'm currently studying the program Ignite da Rocketseat
+- 👀 I'm interested in HTML, CSS, JavaScript
+- 🌱 I'm currently learning ReactJS in Rocketseat's Ignite program
 
 
 <div>
