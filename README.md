@@ -1,4 +1,4 @@
-- 👋 Hi Dear, I'm França Júnior
+- 👋 Hi Dear, I'm França Júnior!
 - 👀 I'm interested in HTML, CSS, JavaScript
 - 🌱 I'm currently learning ReactJS in Rocketseat's Ignite Program
 
