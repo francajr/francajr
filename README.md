@@ -1,6 +1,6 @@
 - 👋 Hi Dear, I'm França Júnior
 - 👀 I'm interested in HTML, CSS, JavaScript
-- 🌱 I'm currently learning Artificial Intelligence at Faculdade Exame
+- 🌱 I'm currently studying a Specialization in Artificial Intelligence at Faculdade Exame
 
 ##
 
