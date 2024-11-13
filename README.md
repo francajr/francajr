@@ -15,7 +15,7 @@
   
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jr-AI" height="30" width="40" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>
+  <img align="center" alt="Jr-AI" height="48" width="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="artificial-intelligence"/>
   <img align="center" alt="Jr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
