@@ -15,7 +15,7 @@
   
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jr-AI" height="30" width="40" src="https://icons8.com.br/icon/114322/artificial-intelligence">
+  <img align="center" alt="Jr-AI" height="30" width="40" src="https://icon-icons.com/pt/icone/ai-artificial-intelig%C3%AAncia-chip-tecnologia-cpu/179503">
   <img align="center" alt="Jr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
